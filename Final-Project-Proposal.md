@@ -10,7 +10,20 @@ Chenyu Jin (cj2793), Jiayi Li (jl6521), Ruiyang Wu (rw3033), Ziqi Guo
 
 ## The tentative project title
 
+Superhero Analysis Across Multi-universe: Who is your Pick?
+
 ## The motivation for this project
+
+The superhero universe is rich with complex characters who embody a wide
+range of skills, powers, and moral alignments. This project aims to
+explore the attributes and dynamics of superheroes and villains, drawing
+comparisons between their strengths, weaknesses, affiliations, and other
+characteristics. We aim to build an interactive tool where users can
+input their desired attributes, such as intelligence, strength, or
+alignment, to find heroes and villains that match their preferences.
+This feature will allow superhero comic fanatics to explore characters
+based on personalized criteria, creating a more engaging and
+customizable experience.
 
 ## The intended final products
 
