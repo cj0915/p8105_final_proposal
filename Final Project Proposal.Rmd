@@ -27,4 +27,21 @@ We obtained data source from Kaggle about superhero power analytics (https://www
 
 ## The planned analyses / visualizations / coding challenges
 
+* Exploratory and correlation analysis:
+
+  * Superhero feature analysis: pie charts and bar graphs of publisher, gender, alignment, race, heights, weights, eye color, and hair color.
+
+  * Power stats analysis: bar graph of mean values for six power dimensions, character power distribution for various publishers, genders, alignment.
+
+  * Correlation analysis: between eye color and hair color, between intelligence, strength, speed, durability, power, combat, and BMI.
+
+* Prediction Model:
+
+We will create an interactive experience for the web user, allowing them to select their preferred characteristics for picking their own superhero. Once they complete input of their preferred superhero data, our prediction model (based on random forest or other machine learning models for prediction) will generate a superhero that best matches the user selections. 
+
+* Coding challenges: 
+
+How to deal with missing data? How to filter out the most user-matched superhero with the accurate and validate algorithm? How to build a user-friendly interactive interface for web users?
+
 ## The planned timeline
+
