@@ -45,3 +45,8 @@ How to deal with missing data? How to filter out the most user-matched superhero
 
 ## The planned timeline
 
+* 11/8: Form a team and submit a proposal
+* 11/14: Project review meeting
+* 12/1: First draft for the web, adjustment
+* 12/5: Final report
+* 12/6: Generate report + Peer assessment

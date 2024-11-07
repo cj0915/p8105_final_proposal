@@ -67,3 +67,9 @@ superhero with the accurate and validate algorithm? How to build a
 user-friendly interactive interface for web users?
 
 ## The planned timeline
+
+- 11/8: Form a team and submit a proposal
+- 11/14: Project review meeting
+- 12/1: First draft for the web, adjustment
+- 12/5: Final report
+- 12/6: Generate report + Peer assessment
