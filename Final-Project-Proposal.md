@@ -27,7 +27,14 @@ customizable experience.
 
 ## The intended final products
 
+A website that contains basic analysis of superheroes’ attributes,
+prediction models, project report, choose the superhero based on user
+preferences.
+
 ## The anticipated data sources
+
+We obtained data source from Kaggle about superhero power analytics
+(<https://www.kaggle.com/datasets/shreyasur965/super-heroes-dataset>)
 
 ## The planned analyses / visualizations / coding challenges
 
